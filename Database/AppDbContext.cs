@@ -8,6 +8,7 @@ namespace Estacionamento.Database
         public DbSet<Company> Companys { get; set; }
         public DbSet<Vehicles> Vehicles { get; set; }
         public DbSet<Movements> Movements { get; set; }
+        public DbSet<ReportsDaily> ReportsDaily { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

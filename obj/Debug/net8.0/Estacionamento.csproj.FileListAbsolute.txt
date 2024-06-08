@@ -103,3 +103,4 @@
 /home/jpdev/dotnet-projects/Estacionamento/obj/Debug/net8.0/Estacionamento.pdb
 /home/jpdev/dotnet-projects/Estacionamento/obj/Debug/net8.0/Estacionamento.genruntimeconfig.cache
 /home/jpdev/dotnet-projects/Estacionamento/obj/Debug/net8.0/ref/Estacionamento.dll
+/home/jpdev/dotnet-projects/Estacionamento/obj/Debug/net8.0/Estacionamento.sourcelink.json
